@@ -1,2 +1,2 @@
-# Fake-News-Detection-using-ML
+# Hoax-Detection-using-ML
 
