@@ -10,7 +10,7 @@ The main objective of this project is to develop a machine learning-based model 
 ## Methodology:
 The project will follow the following methodology:
 
-*Data Collection:* Collect a dataset of tweets from Kaggle, including both real and fake tweets, to train and test the models.
+*Data Collection:* Collect a dataset of tweets from Kaggle (https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset), including both real and fake tweets, to train and test the models.
 
 *Data Preprocessing:* Preprocess the collected data, including cleaning, text normalization, and feature extraction.
 
